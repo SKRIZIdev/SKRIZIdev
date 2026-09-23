@@ -15,7 +15,7 @@ I write code by hand and run teams of AI agents — I split the work, review wha
 | Project | What it does | Stack |
 |---|---|---|
 | **SEO Audit Service** | Crawls a site, runs 100+ automated checks, an LLM writes the findings, a Google Docs report comes out. 1,790 tests, team project | Python · FastAPI · SQLite · LLM |
-| **AI Tools Lens** | Japanese review site: 11 AI image generators on 8 criteria, every fact checked against official pages. [Live](https://aitoolslens.com) | Python · JS · Cloudflare Pages |
+| [**AI Tools Lens**](https://github.com/SKRIZIdev/ai-tools-lens) | Japanese review site: 11 AI image generators on 8 criteria, every fact checked against official pages. [Live](https://aitoolslens.com) | Python · JS · Cloudflare Pages |
 | **Knowledge Base** | Collects product facts from websites and public profiles, tracks changes between runs, turns them into edit tasks. 1,274 tests | Node.js · SQLite · LLM |
 | **Multi-agent site factory** | ~170 AI agents built 13 content sites in one run; the engine ran 9,018 automated checks | Python · agent orchestration |
 
