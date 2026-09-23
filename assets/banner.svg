@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+  <defs>
+    <radialGradient id="g" cx="1020" cy="40" r="620" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .m { font-family: SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 22px; }
+      .p { fill: #8B5CF6; } .c { fill: #FFFFFF; } .o { fill: #C4B5FD; } .d { fill: #71717A; }
+      .cur { fill: #8B5CF6; animation: blink 1.1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+  <rect width="1200" height="330" rx="18" fill="#0B0A10"/>
+  <rect width="1200" height="330" rx="18" fill="url(#g)"/>
+  <rect x="0.5" y="0.5" width="1199" height="329" rx="18" fill="none" stroke="#2A2638"/>
+  <circle cx="34" cy="30" r="7" fill="#3A3450"/><circle cx="58" cy="30" r="7" fill="#3A3450"/><circle cx="82" cy="30" r="7" fill="#3A3450"/>
+  <text x="600" y="36" text-anchor="middle" class="m d" style="font-size:15px">ivan@dev: ~</text>
+  <text x="44" y="96" class="m"><tspan class="p">$</tspan><tspan class="c"> whoami</tspan></text>
+  <text x="44" y="130" class="m o">Ivan Kladienko — backend developer</text>
+  <text x="44" y="182" class="m"><tspan class="p">$</tspan><tspan class="c"> cat focus.txt</tspan></text>
+  <text x="44" y="216" class="m o">web services · automation · AI agents</text>
+  <text x="44" y="268" class="m"><tspan class="p">$</tspan><tspan class="c"> now</tspan></text>
+  <text x="44" y="302" class="m o">building backend services and running AI agents<tspan class="cur"> █</tspan></text>
+</svg>
