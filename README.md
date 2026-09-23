@@ -1,3 +1,4 @@
+<!-- profile README: github.com/SKRIZIdev -->
 <img src="assets/banner.svg" alt="Ivan Kladienko — backend developer" width="100%">
 
 ### `> about`
